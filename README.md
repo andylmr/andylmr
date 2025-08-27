@@ -1,6 +1,6 @@
 ## Hi 
 
-Soy Lucia
+Soy Andrea Lucia, pero es mas probable que me conozcan como solo Lucia, pero quería aclaralo por mi nombre de usuario
 
 Soy estudiante de Ciencias de la Computación en la UNAM
 Actualmente estoy en proceso de aprender java lo mejor posible
