@@ -4,7 +4,8 @@ Soy Andrea Lucia, pero es mas probable que me conozcan como solo Lucia, pero que
 
 Soy estudiante de Ciencias de la Computación en la UNAM
 Actualmente estoy en proceso de aprender java lo mejor posible
-Me gustaría aprender a crear páginas web, otros lenguajes de programación y diseñar interterfaces de usuario
+Lo último que programe fue un proyecto para Estructuras de Datos que resolvia laberintos en la terminal
+Me gustaría aprender a crear páginas web, otros lenguajes de programación y a diseñar interterfaces de usuario
 
 
 <!--
