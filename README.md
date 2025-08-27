@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi 
+
+Soy Lucia
+
+Soy estudiante de Ciencias de la Computación en la UNAM
+Actualmente estoy en proceso de aprender java lo mejor posible
+Me gustaría aprender a crear páginas web, otros lenguajes de programación y diseñar interterfaces de usuario
+
 
 <!--
 **andylmr/andylmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
